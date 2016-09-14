@@ -1,0 +1,11 @@
+frei0r-plugins: Frei0r Plugins (a minimalistic plugin API for video effects)
+frei0r-plugins:
+frei0r-plugins: Frei0r is a minimalistic plugin API for video effects. The
+frei0r-plugins: main emphasis is on simplicity for an API that will round up
+frei0r-plugins: the most common video effects into simple filters, sources
+frei0r-plugins: and mixers that can be controlled by parameters. The intent
+frei0r-plugins: is that this way these simple effects can be shared between
+frei0r-plugins: many applications, avoiding their reimplementation by
+frei0r-plugins: different projects.
+frei0r-plugins:
+frei0r-plugins: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
