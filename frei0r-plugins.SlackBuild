@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: frei0r-plugins.SlackBuild,v 1.5 2017/04/04 07:15:55 gsotirov Exp $
+# $Id: frei0r-plugins.SlackBuild,v 1.6 2017/06/01 12:45:46 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=frei0r-plugins
-VERSION=1.6.0
+VERSION=1.6.1
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
