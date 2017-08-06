@@ -1,4 +1,4 @@
 gcc >= 5.3.0
 gcc-g++ >= 5.3.0
 glibc-solibs >= 2.23
-opencv >= 3.2
+opencv >= 3.3
